@@ -38,7 +38,7 @@ The **Travel App** is a beautifully designed, user-friendly, and fully responsiv
 - **Navbar.tsx**: Navigation bar for the landing page.
 
 ### Deployment
-Access the deployed Travel App [here](https://your-deployed-site.vercel.app).
+Access the deployed Travel App [here](https://travel-gel8d3mz7-xplorers-projects.vercel.app/).
 
 ### How to Run Locally
 1. Clone the repository:
@@ -69,3 +69,5 @@ Access the deployed Travel App [here](https://your-deployed-site.vercel.app).
 
 ---
 For any questions or contributions, feel free to create an issue or submit a pull request. Enjoy exploring the **Travel App Landing Page**!
+
+
